@@ -2,7 +2,7 @@
 
 **Wednesday, July 22 · first ~35 minutes of the afternoon workshop (A1) · one measurement per team**
 
-Your sustainability scorecard currently contains *cited* numbers. In this lab you replace one of them with a number you **measured yourself**. Thursday, when a jury member asks "your energy numbers — measured how?", you will have an answer nobody else in the room has.
+Your sustainability scorecard currently contains *cited* numbers. In this lab you replace one of them with a number you **measured yourself**. Thursday, when an audience member asks "your energy numbers — measured how?", you will have an answer nobody else in the room has.
 
 ## The task
 

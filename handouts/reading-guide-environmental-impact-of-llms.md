@@ -10,7 +10,7 @@
 
 ## Why this paper
 
-On Thursday you will pitch an AI product and defend its sustainability scorecard to a jury. This paper is the most complete public accounting of what it costs — in carbon *and* water — to create a family of language models, including the parts developers almost never report. It gives you the vocabulary and the numbers to make your scorecard honest.
+On Thursday you will pitch an AI product and defend its sustainability scorecard to an audience. This paper is the most complete public accounting of what it costs — in carbon *and* water — to create a family of language models, including the parts developers almost never report. It gives you the vocabulary and the numbers to make your scorecard honest.
 
 ## How to read it
 

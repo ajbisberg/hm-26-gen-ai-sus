@@ -43,6 +43,6 @@ Tuesday's paper measured the cost of *creating* a model. This one measures the c
 
 Write, in a few sentences each:
 
-1. **One number** from the paper you would put on a slide in your final pitch — and how you would frame it so a jury trusts you *more*, not less, for showing it.
+1. **One number** from the paper you would put on a slide in your final pitch — and how you would frame it so an audience trusts you *more*, not less, for showing it.
 2. **One step or loop in your team's Monday agent map** you would now cut, cap, cache, or route to a smaller model because of this paper — and what you would expect to lose by doing it.
 3. **One question** you want the group to argue about.
