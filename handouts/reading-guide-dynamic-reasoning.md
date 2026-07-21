@@ -3,7 +3,7 @@
 **Generative AI & Sustainability · Munich Summer School 2026 · Week 2**
 
 - **Assigned:** Tuesday, July 21 (end of day)
-- **Due:** Wednesday, July 22, 10:10 — bring your written admission ticket to the discussion
+- **Due:** Wednesday, July 22, 10:10 — bring your admission ticket to the discussion
 - **Paper:** Jiin Kim, Byeongjun Shin, Jinha Chung, Minsoo Rhu. *The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective.* IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2026.
 - **Link:** <https://arxiv.org/abs/2506.04301>
 - **Time budget:** 60–90 minutes. This is a systems paper — denser than Tuesday's. Read for the argument and the numbers, not the infrastructure details.
@@ -39,12 +39,10 @@ Tuesday's paper measured the cost of *creating* a model. This one measures the c
 6. The projections: an agentic service at current chatbot traffic ≈ the daily electricity of Seattle; at Google-Search scale, ~200 GW — nearly half the average U.S. grid load. Steelman and critique these extrapolations: what assumptions do they make, and which would you challenge?
 7. Of the authors' recommendations (compute-aware workflows, mixing small and large models, adaptive scaling, quantization/distillation), which one would you actually adopt this week?
 
-## Admission ticket (bring on paper, ~10 minutes to write)
+## Admission ticket
 
 Write, in a few sentences each:
 
 1. **One number** from the paper you would put on a slide in your final pitch — and how you would frame it so a jury trusts you *more*, not less, for showing it.
 2. **One step or loop in your team's Monday agent map** you would now cut, cap, cache, or route to a smaller model because of this paper — and what you would expect to lose by doing it.
 3. **One question** you want the group to argue about.
-
-Your ticket is your entry to the discussion and counts toward participation. The discussion is a fishbowl: you will spend half the time discussing in the inner circle and half observing with an assigned listening role, so read actively — you will need to catch claims that aren't backed by the paper's numbers.

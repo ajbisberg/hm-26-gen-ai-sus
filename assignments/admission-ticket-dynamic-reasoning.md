@@ -8,7 +8,7 @@ Write a few sentences for each. Handwritten is fine; complete beats polished.
 
 ## 1 · One number for your pitch
 
-Which number from the paper would you put on a slide in your final pitch — and how would you frame it so the jury trusts you *more*, not less, for showing it?
+Which number from the paper would you put on a slide in your final pitch — and how would you frame it so the audience trusts you *more*, not less, for showing it?
 
 &nbsp;
 
@@ -37,5 +37,3 @@ A question you want the group to genuinely disagree on.
 &nbsp;
 
 ---
-
-*The discussion is a fishbowl: half the time you discuss in the inner circle, half you observe with an assigned listening role. Read actively — you will need to catch claims that aren't backed by the paper's numbers.*
