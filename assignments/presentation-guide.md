@@ -8,10 +8,10 @@ Audience: professors, staff, and invited guests.
 
 ## 1. Format
 
-- **Pitch:** 20 minutes
-- **Q&A:** 5 minutes, questions held until the pitch ends
+- **Pitch:** ~15-20 minutes
+- **Q&A:** ~5 minutes, questions held until the pitch ends
 - **Slides:** ~12-15 core slides, possibly appendix slides for Q&A 
-- **Demo:** 90 seconds maximum, screenshot fallback directly after it in the deck
+- **Demo:** possible, but you can use rendered images or screenshots instead
 - **Speakers:** everyone speaks; fluent handoff
 - **Data:** anonymize interviewee data
 
