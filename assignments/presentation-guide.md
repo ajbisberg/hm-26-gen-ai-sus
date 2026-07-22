@@ -31,13 +31,13 @@ Core items (★) are most important — roughly a minute each. Unstarred items m
 6. ★ Agentic AI workflow diagram
 7. Data-flow and minimization concept
 8. ★ Privacy, evaluation, and ethics concept
-9. ★ Sustainability scorecard — human dimensions, and at least one measured energy row
+9. ★ Sustainability scorecard — human dimensions, and at least one "measured" (estimated) energy row
 10. Market and operating model — one slide, bottom-up
 11. Implementation roadmap
 12. Optional prototype, mockup, storyboard, or AI demo
 13. ★ Final funding ask — what support the startup needs from HM
 
-Two items get skipped most often:
+Two items to consider:
 
 - **Market and operating model** 
 - **Roadmap and ask** — *"We ask HM for [resources] to run [phase 1] for [duration], measured by [evaluation plan]. If we hit [criteria], we propose phase 2."*
