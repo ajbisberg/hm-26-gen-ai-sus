@@ -72,14 +72,14 @@ Seven criteria, each rated **above expectations / meets expectations / below exp
 ### Space & interaction design
 *Clear, creative, realistic?*
 
-- **Above** — a nameable room, changed in ways a facilities manager would call buildable; one day-in-the-life path from need to outcome; reuse and inclusion as decisions, not adjectives
+- **Above** — a nameable room(s) or space, changed in ways a facilities manager would call buildable; one day-in-the-life path from need to outcome; reuse and inclusion as decisions, not adjectives
 - **Meets** — a coherent space concept, but its link to the AI system is asserted rather than shown
 - **Below** — a render standing in for a concept; a room that could be any room
 
-### Sustainability & circularity
+### Sustainability
 *Measured, or vibes?*
 
-- **Above** — at least one row you measured yourself (mini-lab), read as an energy label — kWh and g CO₂e per 1,000 requests, % routed to the small model — against a stated baseline; every other row labeled measured or estimated; circularity and human dimensions addressed
+- **Above** — at least one row for an energy label — kWh and/or g CO₂e per 1,000 requests, % routed to the small model — against a stated baseline; every other row labeled measured or estimated; human dimensions addressed
 - **Meets** — a complete, well-cited scorecard, but no measurement of your own, or estimates not distinguished from measurements
 - **Below** — sustainability as a value claim; unsourced numbers
 
@@ -90,7 +90,7 @@ Seven criteria, each rated **above expectations / meets expectations / below exp
 - **Meets** — privacy addressed as compliance language rather than design consequence; opt-out unclear
 - **Below** — "data is anonymized and secure," full stop; sensors with no purpose limitation
 
-### Pitch quality & prototype
+### Pitch quality
 *Convincing, visual, startup-like?*
 
 - **Above** — one story (problem → vision → how → proof → ask) inside 10 minutes with clean handoffs; one interaction demonstrated excellently, plus the honest "does not yet" sentence; Q&A answers the question asked and concedes gaps
