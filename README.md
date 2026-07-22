@@ -11,6 +11,7 @@ This repository contains the materials you will use during class. Files may be u
 - [Slides](slides/) — lecture and workshop slides, organized by class date.
 - [Assignments](assignments/) — admission tickets, activities, worksheets, and project guides.
 - [Handouts](handouts/) — reading guides and other supporting materials.
+- [Scripts](scripts/) — starter code for in-class labs.
 
 ## Using the files
 

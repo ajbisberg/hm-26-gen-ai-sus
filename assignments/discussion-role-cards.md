@@ -1,6 +1,6 @@
 # Discussion Role Cards
 
-Print single-sided and cut along the rules. Tuesday uses the five **analytic-team** roles (×2 teams); Wednesday uses the five **fishbowl observer** roles (one set; roles swap with the circles at halftime).
+Tuesday uses the five **analytic-team** roles (×2 teams); Wednesday uses the five **fishbowl observer** roles (one set; roles swap with the circles at halftime).
 
 ---
 
