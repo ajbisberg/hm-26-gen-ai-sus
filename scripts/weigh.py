@@ -5,7 +5,7 @@ Generative AI & Sustainability · Munich Summer School 2026 · Wed 22 July
 Runs one representative request from your agent map through two local models
 and measures the energy each one costs.
 
-Before running (see slide deck 3.5 for the full walkthrough):
+Before running (see slide deck 3.4 for the full walkthrough):
 
     python3 -m pip install codecarbon ollama     # Windows: python -m pip install ...
     ollama pull qwen2.5:0.5b
@@ -21,7 +21,7 @@ Then, from the folder containing this file:
 Output: emissions.csv in this folder, one row per model, plus a printed
 summary you can paste straight into your scorecard.
 
-EDIT ONLY THE PROMPTS LIST BELOW.
+Edit the prompts listed below.
 """
 
 import ollama
@@ -30,7 +30,7 @@ from codecarbon import EmissionsTracker
 MODELS = ["qwen2.5:0.5b", "gemma2:2b"]
 
 PROMPTS = [
-    # ~20 realistic variants of YOUR chosen request, in your users' words.
+    # ~5-10 realistic variants of YOUR chosen request, in your users' words.
     # Replace these two examples. Vary wording, language, and politeness the
     # way real users do — that variation is what keeps the measurement honest.
     "Ich suche einen ruhigen Lernplatz mit Steckdosen für 2 Stunden.",
