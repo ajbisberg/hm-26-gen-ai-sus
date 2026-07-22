@@ -27,7 +27,7 @@ Core items (★) are most important — roughly a minute each. Unstarred items m
 2. ★ Problem statement from student interviews, with real-vs-AI-role-play disclosure
 3. User personas
 4. Physical space concept
-5. ★ Sustainable AI infrastructure concept, including the compute decision matrix
+5. ★ Sustainable AI infrastructure concept, including justification for compute resources (in classroom, on campus, remote API (open vs. closed model)
 6. ★ Agentic AI workflow diagram
 7. Data-flow and minimization concept
 8. ★ Privacy, evaluation, and ethics concept
